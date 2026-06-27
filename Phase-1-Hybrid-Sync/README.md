@@ -39,12 +39,15 @@ I accessed the ADUC using the MMC snap-in
 
 ## Security Findings & Evidence
 * Status: Completed
-* Evidence:
+
   <div align="center">
+  
+    ### Evidence
+
     <img width="600" alt="DNS Resolution Test" src="https://github.com/user-attachments/assets/89fed397-38a4-41a1-87c7-71fdbac9f0f5">
     <p><em>Figure 1: DNS Resolution Baseline Verification</em></p>
 
-    <br>
+  <br>
 
   <img width="600" alt="Connectivity Test" src="https://github.com/user-attachments/assets/662eb15a-777e-4858-bad3-aa018f3079c4">
   <p><em>Figure 2: External Connectivity Validation (Port 443)</em></p>
