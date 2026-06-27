@@ -9,10 +9,6 @@ Due to environment constraints regarding cloud synchronization, this phase focus
 2. **Structural Design:** Implemented Organizational Units (OUs) to support the principle of Least Privilege (e.g., separate OUs for Users, Computers, and Service Accounts).
 3. **Environment Validation:** Verified local connectivity and DNS resolution, creating a secure baseline for future identity workflows.
 
-## Implementation Steps
-1. Configured Microsoft Entra Connect on the Domain Controller.
-Verified synchronization of Organizational Units (OUs).
-
 ## Security Findings & Evidence
 * Status: Completed
 * Evidence:
