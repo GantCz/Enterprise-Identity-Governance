@@ -9,6 +9,31 @@ Due to environment constraints regarding cloud synchronization, this phase focus
 2. **Structural Design:** Implemented Organizational Units (OUs) to support the principle of Least Privilege (e.g., separate OUs for Users, Computers, and Service Accounts).
 3. **Environment Validation:** Verified local connectivity and DNS resolution, creating a secure baseline for future identity workflows.
 
+## Automated Provisioning Results
+The PowerShell script `Provision-Users.ps1` successfully created users across the designated OUs, ensuring adherence to the organizational hierarchy.
+
+| Department | Verification Status |
+| : --- | : --- |
+| IT | Verified |
+| Staff-Users | Verified |
+| Workstations | Verified |
+
+<div align="center">
+  <img width="500" alt="OU IT-Admins" src="https://github.com/user-attachments/assets/bbba5c05-4caa-4f89-9c66-49547fe941a7">
+  <p><em>Figure 1: User accounts provisioned successfully into Departmental OUs.</em></p>
+  <br>
+  <img width="500" alt="OU Staff-Users" src="https://github.com/user-attachments/assets/0836617d-61ce-4458-96b3-92baf50dfe48">
+  <p><em>Figure 2: User accounts provisioned successfully into Departmental OUs.</em></p>
+</div>
+
+## Active Directory OU Hierarchy
+This structure enables granular security managemnet and policy delegation.
+I accessed the ADUC using the MMC snap-in
+<div align="center">
+  <img width="500" alt="Active Directory OU Structure" src="https://github.com/user-attachments/assets/e716920d-1c41-4632-9a31-159492d8fcbb">
+  <p><em>Figure: Organization of departmental OUs within the corporate hierarchy.</em></p>
+</div>
+
 ## Security Findings & Evidence
 * Status: Completed
 * Evidence:
