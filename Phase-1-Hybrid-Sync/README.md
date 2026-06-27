@@ -13,7 +13,7 @@ Due to environment constraints regarding cloud synchronization, this phase focus
 The PowerShell script `Provision-Users.ps1` successfully created users across the designated OUs, ensuring adherence to the organizational hierarchy.
 
 | Department | Verification Status |
-| : --- | : --- |
+| :--- | :--- |
 | IT | Verified |
 | Staff-Users | Verified |
 | Workstations | Verified |
