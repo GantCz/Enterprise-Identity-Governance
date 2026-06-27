@@ -2,8 +2,8 @@
 *Showcasing Hybrid Identity Governance between On-Premise AD and Cloud Identity.*
 
 ## Project Overview
-This project documents the architectural design, implementation, and hardening of a hybrid identity environment. It demonstrates proficiency in managing user identities across local Domain Controllers and Cloud-based Identity Providers.
-
+This project documents the architectural design, implementation, and hardening of a hybrid identity environment. 
+*Note: Due to student account restrictions preventing external cloud integration, this project focuses on robust On-Premise Identity Lifecycle Management and Administrative Auditing as a functional equivalent to hybrid ccloud-synchronization workflows.*
 ## Core Competencies
 **On-Premises:** Active Directory Domain Services (AD AS), Group Policy Objects (GPOs), Organizational Units (OUs).
 **Cloud:** Azure/Entra ID Connect, Role-based Access Control (RBAC), Conditional Access Policies.
