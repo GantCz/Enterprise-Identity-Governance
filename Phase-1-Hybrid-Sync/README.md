@@ -11,17 +11,20 @@ Due to environment constraints regarding cloud synchronization, this phase focus
 
 ## Automated Provisioning Results
 The PowerShell script `Provision-Users.ps1` successfully created users across the designated OUs, ensuring adherence to the organizational hierarchy.
+<div align="center">
 
+### Automated Provisioning Results
 | Department | Verification Status |
 | :--- | :--- |
 | IT | Verified |
 | Staff-Users | Verified |
 | Workstations | Verified |
 
-<div align="center">
+<br>
+
   <img width="500" alt="OU IT-Admins" src="https://github.com/user-attachments/assets/bbba5c05-4caa-4f89-9c66-49547fe941a7">
   <p><em>Figure 1: User accounts provisioned successfully into Departmental OUs.</em></p>
-  <br>
+<br>
   <img width="500" alt="OU Staff-Users" src="https://github.com/user-attachments/assets/0836617d-61ce-4458-96b3-92baf50dfe48">
   <p><em>Figure 2: User accounts provisioned successfully into Departmental OUs.</em></p>
 </div>
