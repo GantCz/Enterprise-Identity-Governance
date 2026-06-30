@@ -11,4 +11,4 @@ This project documents the architectural design, implementation, and hardening o
 ## 🚀 Project Roadmap
 1. **[Phase 1: Identity Environment Baseline](Phase-1-Hybrid-Sync/README.md)** - Designining a secure Active Directory foundation, OU structure, and administrative auditing baseline.
 2. **[Phase 2: Policy Enforcement](Phase-2-Policy/README.md)** - Implementing Least Privilege GPOs and security hardening standards.
-3. [Phase 3: Identity Audit](Phase-3-Audit/README.md)** - Automating threat detection and privilege escalation monitoring.
+3. **[Phase 3: Identity Audit](Phase-3-Audit/README.md)** - Automating threat detection and privilege escalation monitoring.
