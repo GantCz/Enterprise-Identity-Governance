@@ -50,6 +50,6 @@ I accessed the ADUC using the MMC snap-in
   <br>
 
   <img width="600" alt="Connectivity Test" src="https://github.com/user-attachments/assets/662eb15a-777e-4858-bad3-aa018f3079c4">
-  <p><em>Figure 2: External Connectivity Validation (Port 443)</em></p>
+  <p><em>Figure 2: External Connectivity Validation (Port 443).</em></p>
   </div>
 
